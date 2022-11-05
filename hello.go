@@ -8,5 +8,5 @@ package main
 import "fmt"
 
 func main() {
-	fmt.Println("Greetings, fellow gopher. 20221105 Stat.")
+	fmt.Println("Greetings, fellow gopher. Today is 20221105, Sat.")
 }
